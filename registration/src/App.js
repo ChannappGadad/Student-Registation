@@ -11,8 +11,7 @@ function App() {
   const [numbr, setNumber] = useState();
 
   const submitForm = () => { 
-    console.log(lastName)
-    console.log(dateOfBirth)
+
     console.log(lastName)
 
 
